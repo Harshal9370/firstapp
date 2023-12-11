@@ -45,3 +45,6 @@ button:hover{
     height: 210px;
     cursor: pointer;
 }
+.nav{
+    flex-wrap: wrap;
+}
